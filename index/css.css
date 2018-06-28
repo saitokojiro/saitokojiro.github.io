@@ -1,0 +1,35 @@
+body{
+  background: url("Fotolia_73655966_Subscription_Monthly_M.jpg") #E0F8F7;
+}
+.info{
+  margin: auto;
+  padding: auto;
+  width: 200px;
+  border: 1px solid black;
+  background: gray;
+  margin-top: 15px ;
+  padding-top: 15px ;
+  padding-bottom: 30px; 
+  border-radius: 15px; 
+}
+.desc{
+    margin-top: 20px;
+}
+a{
+    text-align: center;
+    text-decoration: none;
+    color:black;
+}
+
+.pic-profil{
+  margin: auto;
+  padding: auto;
+  width: 120px;
+  height: 120px;
+  background: url(saitokojiro1.jpg) , no-repeat;
+    
+  background-size: cover;
+ /* background-position-x: ;*/
+  border-radius: 80px ;
+  border: 10px ;
+}
